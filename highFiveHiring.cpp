@@ -4,7 +4,7 @@
 #include <list>
 #include <algorithm>
 #include <fstream>
-#include "highFiveHiring.h"
+#include "highFiveHiring.hpp"
 
 using namespace std;
 
@@ -281,7 +281,7 @@ int main() {
     Game game;
     int userInput;
     string l;
-    ifstream logo ("../gameName.txt");
+    ifstream logo ("gameName.txt");
     if(logo.is_open()) {
         while(getline(logo,l)){
             cout << l << "\n";

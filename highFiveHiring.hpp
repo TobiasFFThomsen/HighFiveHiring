@@ -62,7 +62,7 @@ string initialRoomMessage = "\nYou find yourself in a cave deep in the C of plus
 
 
 string winningMessage     = "\nYOU WON THE JOB!"
-                            "\n\nSo the queen of jobject oreoented programming you say. Maybe a little long? How about we call you ms. Jobs?\n";
+                            "\n\nSo the queen of jobject oreoented programming you say. Maybe a little long? How about we call you Ms. Jobs?\n";
 
 
 
